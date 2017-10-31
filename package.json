@@ -1,0 +1,14 @@
+{
+  "name": "ttyjs",
+  "version": "1.0.0",
+  "description": "ttyjs.js",
+  "main": "ttyjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "entah",
+  "license": "ISC",
+  "dependencies": {
+    "tty.js": "^0.2.15"
+  }
+}
